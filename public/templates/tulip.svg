@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- stem -->
+    <path d="M200 210 C 195 260, 205 300, 200 360"/>
+    <!-- leaf -->
+    <path d="M200 300 C 150 300, 120 270, 110 230 C 160 235, 195 260, 200 300 Z"/>
+    <!-- flower head -->
+    <path d="M140 210
+             C 130 160, 150 100, 200 90
+             C 250 100, 270 160, 260 210
+             C 240 195, 220 210, 200 200
+             C 180 210, 160 195, 140 210 Z"/>
+    <path d="M170 205 C 165 160, 175 120, 200 100"/>
+    <path d="M230 205 C 235 160, 225 120, 200 100"/>
+  </g>
+</svg>

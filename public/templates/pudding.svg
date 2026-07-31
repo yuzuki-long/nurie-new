@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- plate -->
+    <ellipse cx="200" cy="310" rx="140" ry="30"/>
+    <!-- pudding body (trapezoid, wider at bottom) -->
+    <path d="M150 170 C 150 165, 250 165, 250 170 L 270 285 C 270 295, 130 295, 130 285 Z"/>
+    <!-- top ellipse of pudding -->
+    <ellipse cx="200" cy="170" rx="50" ry="16"/>
+    <!-- caramel drizzle -->
+    <path d="M160 178 C 165 200, 150 215, 158 235"/>
+    <path d="M200 182 C 205 205, 195 225, 202 250"/>
+    <path d="M240 178 C 245 200, 232 218, 240 238"/>
+    <!-- cherry -->
+    <circle cx="200" cy="130" r="16"/>
+    <path d="M205 116 C 210 95, 225 85, 235 80"/>
+  </g>
+</svg>

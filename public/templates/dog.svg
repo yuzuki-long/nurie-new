@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- body -->
+    <path d="M140 260 C 135 210, 165 190, 200 190 C 235 190, 265 210, 260 260 C 258 300, 235 325, 200 325 C 165 325, 142 300, 140 260 Z"/>
+    <!-- front legs -->
+    <path d="M165 300 L 160 355"/>
+    <path d="M235 300 L 240 355"/>
+    <!-- tail -->
+    <path d="M258 265 C 285 255, 300 235, 295 210"/>
+    <!-- head -->
+    <circle cx="200" cy="130" r="65"/>
+    <!-- ears -->
+    <path d="M150 100 C 120 95, 105 130, 120 165 C 140 155, 155 130, 150 100 Z"/>
+    <path d="M250 100 C 280 95, 295 130, 280 165 C 260 155, 245 130, 250 100 Z"/>
+    <!-- snout -->
+    <path d="M175 145 C 175 165, 225 165, 225 145"/>
+    <!-- nose -->
+    <ellipse cx="200" cy="150" rx="10" ry="7" fill="#2b2b2b"/>
+    <!-- eyes -->
+    <circle cx="175" cy="115" r="7" fill="#2b2b2b"/>
+    <circle cx="225" cy="115" r="7" fill="#2b2b2b"/>
+    <!-- mouth -->
+    <path d="M200 158 C 200 168, 185 172, 178 168"/>
+    <path d="M200 158 C 200 168, 215 172, 222 168"/>
+  </g>
+</svg>

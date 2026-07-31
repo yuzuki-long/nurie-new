@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- body -->
+    <path d="M70 210
+             C 70 140, 160 100, 240 130
+             C 300 150, 320 190, 330 210
+             C 320 230, 300 270, 240 290
+             C 160 320, 70 280, 70 210 Z"/>
+    <!-- tail -->
+    <path d="M330 210 L 385 160 L 365 210 L 385 260 Z"/>
+    <!-- side fin -->
+    <path d="M180 240 C 170 265, 150 280, 130 285 C 145 260, 155 245, 170 235 Z"/>
+    <!-- top fin -->
+    <path d="M190 150 C 200 130, 220 120, 240 118 C 230 138, 215 148, 195 160 Z"/>
+    <!-- eye -->
+    <circle cx="255" cy="185" r="10" fill="#2b2b2b"/>
+    <!-- gill -->
+    <path d="M245 155 C 235 175, 235 200, 245 225"/>
+    <!-- scale lines -->
+    <path d="M120 190 C 140 195, 140 215, 120 220"/>
+    <path d="M155 185 C 178 190, 178 215, 155 222"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+  <g fill="none" stroke="#2b2b2b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- apple body -->
+    <path d="M200 150
+             C 250 130, 300 160, 300 220
+             C 300 280, 255 320, 200 320
+             C 145 320, 100 280, 100 220
+             C 100 160, 150 130, 200 150 Z"/>
+    <!-- top indent -->
+    <path d="M185 152 C 190 140, 195 130, 200 122"/>
+    <path d="M215 152 C 210 142, 205 132, 200 122"/>
+    <!-- stem -->
+    <path d="M200 122 C 202 105, 208 95, 218 85"/>
+    <!-- leaf -->
+    <path d="M218 100 C 240 90, 260 98, 265 115 C 245 120, 225 115, 218 100 Z"/>
+    <!-- highlight -->
+    <path d="M150 190 C 145 210, 148 235, 160 250"/>
+  </g>
+</svg>
