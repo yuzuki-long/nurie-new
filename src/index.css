@@ -309,6 +309,37 @@ img, svg {
   box-shadow: 0 -6px 16px rgba(74,63,107,0.1);
 }
 
+.tool-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding: 0 4px;
+}
+
+.tool-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: var(--color-bg);
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--color-plum);
+}
+
+.tool-btn.active {
+  background: var(--color-coral);
+  color: #ffffff;
+}
+
+.tool-btn:disabled {
+  opacity: 0.4;
+}
+
 .brush-row {
   display: flex;
   align-items: center;
